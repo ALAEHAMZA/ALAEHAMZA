@@ -31,3 +31,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaehamza&label=Profile%20views&color=0e75b6&style=flat" alt="alaehamza" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaehamza" alt="alaehamza" /></a> </p>
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1bb3f833-701e-4e8e-9ef2-4a7b2940a318" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="02b96d17-b408-45c7-b32f-8f8c81d87fe8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5abbd9c8-f57d-42e2-9f5f-4aed444f0381" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="92628ab4-fb52-4656-9972-170e0762ccb5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
