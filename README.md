@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alae Benhamza</h1>
 <h3 align="center">A passionate full-stack web developer from Morocco</h3>
 
-- 🌱 I’m currently learning **Laravel, Java, C#**
+- 🌱 I’m currently learning **Laravel, .NET, AngularJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alaehamza](https://github.com/alaehamza)
 
-- 💬 Ask me about **Html, Css, JavaScript**
+- 💬 Ask me about **ReactJS, ExpressJs, MongoDB**
 
 - 📫 How to reach me **alaebenhamza3@gmail.com**
 
